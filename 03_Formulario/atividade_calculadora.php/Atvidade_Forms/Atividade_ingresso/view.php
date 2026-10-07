@@ -17,7 +17,6 @@
         <label for = "">Quantidade de ingressos: </label>
         <input type ="number" name = "qtd">
         <br><br>
-
         <input type ="radio" name = "tipo" value = "inteira">
         <label for = ""> inteira </label>
         <br>
